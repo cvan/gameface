@@ -1,0 +1,20 @@
+{
+  "name": "gameface",
+  "version": "0.0.1",
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.x",
+    "npm": ">=1.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cvan/gameface.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.2",
+    "gulp-concat": "^2.2.0",
+    "gulp-connect": "^2.0.5",
+    "gulp-helptext": "0.0.10",
+    "gulp-jshint": "^1.6.3"
+  }
+}
